@@ -1,0 +1,8 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+textarea {
+  width: 80%;
+  height: 150px;
+}
